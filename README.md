@@ -4,7 +4,7 @@ Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a really scuffed battle s
 # VERSIONS
 ## V1.0
 Overhaul of BETA by DaKawaliKid. Introduced:
-- Heavy attacks which inflict a higher damage
+- Heavy attacks which inflict increased damage
 - Concept of suicide where fighters are able to kill themselves (inspired through an oversight in BETA where a fighter had the chance to terget themselves)
 - Cataclysmic 'world events' which affect a large amount of fighters
 - The ability for fighters to interact with other fighters without harm to increase realism
