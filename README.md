@@ -9,7 +9,7 @@ Overhaul of BETA by DaKawaliKid. Introduced:
 - Cataclysmic 'world events' which affect a large amount of fighters
 - The ability for fighters to interact with other fighters without harm to increase realism
 - Death messages at the end of certain attacks to distinguish deaths and kills from fighter interactions
-- The ability for fighters to find and use items that affect their core stats and other effects
+- The ability for fighters to find and use items that affect their core stats and other effects, categorized into weapons, armor and miscellaneous (which usually have no effect)
 
 ## BETA
 Original version created by Not_TNB. Introduced:
