@@ -15,4 +15,4 @@ Overhaul of BETA by DaKawaliKid. Introduced:
 Original version created by Not_TNB. Introduced:
 - Concept of 'fighters' with random stats and user-inputted names
 - Core fighters stats: HP, ATK, DEF, CRIT DAMAGE (CD), CRIT CHANCE (CR)
-- Turn based 'combat' involving random attacks and combos by one fighter onto another whose damage and result is determined by random chance and core stats
+- Turn based 'combat' involving random attacks, combos and blocks by one fighter onto another whose damage and result is determined by random chance and core stats
