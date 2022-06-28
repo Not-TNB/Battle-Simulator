@@ -1,5 +1,5 @@
 # INTRO
-Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a really scuffed battle simulator (obviously) full of random chances and no skill to be found
+Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle simulator (definitely) full of random chances and no skill to be found
 
 # MAJOR VERSIONS
 ## V1.0
