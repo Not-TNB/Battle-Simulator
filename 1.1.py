@@ -195,8 +195,8 @@ class BattleField:
         f1 = random.choice(self.fighters)
         if f1 not in sector:
           sector.append(f1)
-    caught = [i.Name for i in sector] if sector == [] else 'None'
-    self.events += 'FIGHTERS CAUGHT: ' + ', '.join(caught) + '\n'
+    caught = ', '.join([i.Name for i in sector]) if sector != [] else 'None'
+    self.events += 'FIGHTERS CAUGHT: ' + caught + '\n'
     for f1 in sector:
       fate = random.randint(1,3)
       if fate == 1 and len(self.fighters) != 1:
