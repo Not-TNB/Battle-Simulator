@@ -1,7 +1,7 @@
 # INTRO
 Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a really scuffed battle simulator (obviously) full of random chances and no skill to be found
 
-# VERSIONS
+# MAJOR VERSIONS
 ## V1.0
 Overhaul of BETA by DaKawaliKid. Introduced:
 - Heavy attacks which inflict increased damage
