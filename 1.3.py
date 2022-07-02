@@ -11,7 +11,7 @@ exinteraction = [[' told ',' to go die'],[' thought that fighting ',' was futile
 deathmsg = [Fore.RED + i + Fore.RESET for i in [' and said a prayer before ending them',' and also slit their throat',' somehow breaking their neck',' thus finishing them off',' and put a bullet through their skull',' and said "omae wa mou shinderu"',' then teabagged them',' and made a hole through their stomach',' with a stab but didn\'t stop stabbing until they had 69 stab wounds',' and beheaded them']]
 
 class BattleField:
-  def _init_(self, fighters: list):
+  def __init__(self, fighters: list):
     self.fighters = fighters
     self.all_fighters = tuple(self.fighters)
     self.turns = 0
@@ -67,7 +67,7 @@ class BattleField:
             thing = random.randint(1, 3)                           # category decider
             if thing == 1:
               item = random.choice(weapons)
-              self.events += f'{f1.Name} found {item[1]} (' + f'{Fore.YELLOW}'(item[0]+1) + Fore.RESET + '), '
+              self.events += f'{f1.Name} found {item[1]} (' + f'{Fore.YELLOW}*'*(item[0]+1) + Fore.RESET + '), '
               if len(f1.Items) == 9:
                 self.events += 'but their inventory is full'
                 if item[0] <= 4:
@@ -99,7 +99,7 @@ class BattleField:
                 f1.Items.append(item)
             elif thing == 2:
               item = random.choice(armor)
-              self.events += f'{f1.Name} found {item[1]} (' + f'{Fore.YELLOW}'(item[0]+1) + Fore.RESET + '), '
+              self.events += f'{f1.Name} found {item[1]} (' + f'{Fore.YELLOW}*'*(item[0]+1) + Fore.RESET + '), '
               if len(f1.Items) == 9:
                 self.events += 'but their inventory is full'
                 if item[0] <= 4:
@@ -266,7 +266,7 @@ class BattleField:
         self.events += f1.Name + random.choice(live)
 
 class Fighter:
-  def _init_(self, name: str):
+  def __init__(self, name: str):
     self.Name = name
     self.Hp = random.randint(3000, 6000)
     self.Atk = random.randint(300, 900)
@@ -279,7 +279,7 @@ class Fighter:
     self.dead = False
     self.Items = []
 
-  def _str_(self):
+  def __str__(self):
     return Style.DIM + Fore.CYAN + f'Fighter {self.Name}:\n\tHP: {self.Hp}\n\tAtk: {self.Atk}\n\tDef: {self.Def}\n\tCrit: {self.Cr}/{self.Cd}\n\t' + Style.RESET_ALL 
   
   def attack(self, other):
