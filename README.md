@@ -1,7 +1,17 @@
-# INTRO
-Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle simulator (definitely) full of random chances and no skill to be found
+# INTRO ⚔️
+Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.3**, and are working on the next update, **VERSION 2.0**
 
-# MAJOR VERSIONS
+# HOW 2 PLAY 🎮
+1. Download the file named `[latest version].exe`
+2. Run the file. This should open up a shell with a prompt, where you can enter the names of "fighters" (who will have random stats and experience random events and interactions). You have to input the fighter names seperated by "`, `", although fighter names are allowed to have spaces:<br>
+  ❌ Fighter 1,Fighter 2,Fighter 3<br>
+  ❌ Red Green Blue<br>
+  ❌ A ,B ,C<br>
+  ✅ Python, Javascript, C++<br>
+  ✅ Mike Oxlong, Joe Mama, Ben Dover<br>
+3. Click <kbd>Enter</kbd> to progress 1 turn, and read the events that occur. More fighters will usually mean more events per turn, so you have to be patient 😴
+
+# MAJOR VERSIONS 🚀
 ## V1.0
 Overhaul of BETA by DaKawaliKid. Introduced:
 - Heavy attacks which inflict increased damage
