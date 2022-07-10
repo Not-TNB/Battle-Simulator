@@ -9,7 +9,7 @@ Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle
   ❌ A ,B ,C<br>
   ✅ Python, Javascript, C++<br>
   ✅ Mike Oxlong, Joe Mama, Ben Dover<br>
-3. Click <kbd>Enter</kbd> to progress 1 turn, and read the events that occur. More fighters will usually mean more events per turn, so you have to be patient 😴
+3. Click <kbd>Enter</kbd> to progress 1 turn, and read the events that occur. Each turn consists of a list of events and interactions, followed by fighter statistics (such as HP, kills, etc.)
 
 # MAJOR VERSIONS 🚀
 ## V1.0
@@ -21,7 +21,7 @@ Overhaul of BETA by DaKawaliKid. Introduced:
 - Death messages at the end of certain attacks to distinguish deaths and kills from fighter interactions
 - The ability for fighters to find and use items that affect their core stats and other effects, categorized into weapons, armor and miscellaneous (which usually have no effect)
 
-## BETA
+## V0.0 (BETA)
 Original version created by Not_TNB. Introduced:
 - Concept of 'fighters' with random stats and user-inputted names
 - Core fighters stats: HP, ATK, DEF, CRIT DAMAGE (CD), CRIT CHANCE (CR)
