@@ -1,5 +1,5 @@
 # INTRO ⚔️
-Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.3**, and are working on the next update, **VERSION 2.0**
+Welcome to Not_TNB and DaKawaliKid's Battle Simulator, a 100% not scuffed battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.4**, and are working on the next update, **VERSION 2.0**
 
 # HOW 2 PLAY 🎮
 1. Download the file named `[latest version].exe`
