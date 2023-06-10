@@ -1,5 +1,5 @@
 # INTRO ⚔️
-Welcome to Not_TNB and DaKawaliKid's Text-Based Battle Simulator, a 100% not scuffed "last-one-standing" battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.5**, and are working on the next update, **VERSION 2.0**
+Welcome to Not_TNB and DaKawaliKid's Text-Based Battle Simulator, a 100% not scuffed "last-one-standing" battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.6**, and are working on the next update, **VERSION 2.0**
 
 # HOW 2 PLAY 🎮
 (Example images are at the bottom of this file)
