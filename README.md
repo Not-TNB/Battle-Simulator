@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/Not-TNB/Battle-Simulator/blob/main/ReadMeImages/banner.png" width="100%"></p>
+
 # INTRO ⚔️
 Welcome to Not_TNB and DaKawaliKid's Text-Based Battle Simulator, a 100% not scuffed "last-one-standing" battle simulator (definitely) full of random chances and no skill to be found. Currently we are on **VERSION 1.6**, and are working on the next update, **VERSION 2.0**
 
